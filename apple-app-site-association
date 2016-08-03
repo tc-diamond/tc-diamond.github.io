@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "Z634D5L4B3.ru.cardsmobile.wallet",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
